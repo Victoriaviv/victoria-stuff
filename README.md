@@ -49,10 +49,10 @@ npm install
 
 npm run dev
 
-🌐 Live Demo
+## 🌐 Live Demo
 🔗 Live Website
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 .🔒 Add form validation and backend for Contact form
 
 .🌍 Add language switcher (multilingual support)
@@ -63,7 +63,7 @@ npm run dev
 
 .🎯 Improve animation with Framer Motion or GSAP
 
-👩🏽‍💻 About Me
+## 👩🏽‍💻 About Me
 
 🎓 High school diploma (PCM) from Ecole Secondaire St. Vincent Muhoza (2021–2024)
 
@@ -73,7 +73,7 @@ npm run dev
 
 👩‍🎓 Participant in TekHer training and Women Coding Bootcamp (AmaliTech)
 
-© 2025 Victoria. Built with love and code 💻💖
+## © 2025 Victoria. Built with love and code 💻💖
 
 
 
