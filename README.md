@@ -40,5 +40,42 @@ Screenshots from the template were carefully used to replicate layout, colors, a
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/portfolio-react.git
+git clone https://github.com/Victoriaviv/portfolio-react.git
 cd portfolio-react
+2.Install Dependencies
+
+npm install
+3.Start the Development Server
+
+npm run dev
+
+🌐 Live Demo
+🔗 Live Website
+
+🚀 Future Improvements
+.🔒 Add form validation and backend for Contact form
+
+.🌍 Add language switcher (multilingual support)
+
+.🌓 Implement dark/light theme toggle
+
+.🧩 Add blog or article section
+
+.🎯 Improve animation with Framer Motion or GSAP
+
+👩🏽‍💻 About Me
+
+🎓 High school diploma (PCM) from Ecole Secondaire St. Vincent Muhoza (2021–2024)
+
+💻 Learning software development since late 2024
+
+🔧 Backend & frontend: HTML, CSS, JS, React, Node.js, Express, TypeScript, MongoDB, PostgreSQL
+
+👩‍🎓 Participant in TekHer training and Women Coding Bootcamp (AmaliTech)
+
+© 2025 Victoria. Built with love and code 💻💖
+
+
+
+
+
