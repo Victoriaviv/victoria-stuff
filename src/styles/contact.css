@@ -127,3 +127,73 @@
   html {
     scroll-behavior: smooth;
   }
+
+  @media (max-width: 1024px) {
+    .contact-left {
+      margin-left: 4rem;
+    }
+  
+    .contact-right {
+      margin-right: 4rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .contact-section {
+      flex-direction: column;
+      padding: 3rem 1.5rem;
+      gap: 2rem;
+    }
+  
+    .contact-left,
+    .contact-right {
+      margin: 0;
+      min-width: 100%;
+    }
+  
+    .contact-left h3,
+    .contact-right h2 {
+      text-align: center;
+    }
+  
+    .contact-item {
+      justify-content: center;
+    }
+  
+    .contact-form input,
+    .contact-form textarea {
+      font-size: 0.95rem;
+    }
+  
+    .submit-button {
+      width: 100%;
+    }
+  
+    .social-icons {
+      justify-content: center;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .contact-left h3,
+    .contact-right h2 {
+      font-size: 1.4rem;
+    }
+  
+    .contact-label,
+    .contact-value {
+      font-size: 0.8rem;
+    }
+  
+    .contact-form input,
+    .contact-form textarea {
+      font-size: 0.9rem;
+      padding: 0.7rem 0.9rem;
+    }
+  
+    .submit-button {
+      padding: 0.8rem;
+      font-size: 0.95rem;
+    }
+  }
+  
