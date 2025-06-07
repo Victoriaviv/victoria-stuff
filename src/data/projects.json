@@ -7,7 +7,7 @@
             "technologies": ["React", "CSS", "JavaScript","Node.js"],
             "liveUrl": "https://recycling-seven.vercel.app",
             "githubUrl": "https://github.com/Victoriaviv/Recycling",
-            "image": "src/assets/background.jpg"
+            "image": "../images/background.jpg"
           },
       {
         "id": 2,
@@ -16,7 +16,7 @@
         "technologies": ["React", "CSS", "JavaScript", "Node.js"],
         "liveUrl": "https://reca-rosy.vercel.app/",
         "githubUrl": "https://github.com/Victoriaviv/RECA",
-        "image": "src/assets/reca.jpg"
+        "image": "../images/reca.jpg"
       },
       {
         "id": 3,
@@ -25,7 +25,7 @@
         "technologies": ["Node.js", "Express", "PostgreSQL"],
         "liveUrl": "",
         "githubUrl": "https://github.com/Victoriaviv/type",
-        "image": "src/assets/api.png"
+        "image": "../images/api.png"
       }
     ]
   }
