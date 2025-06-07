@@ -5,6 +5,10 @@ import background from"../assets/background.jpg";
 import api from"../assets/api.png";
 import reca from"../assets/reca.jpg"
 
+const image = {
+  api,reca,background,
+};
+
 const ProjectsSection = () => {
   return (
     <section id="projectsSection" className="projects-section">
