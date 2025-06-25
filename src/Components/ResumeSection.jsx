@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import resumeData from "../data/experience.json";
-import "../styles/Resume.css"; // Create this if you want separate styling
+import "../styles/Resume.css"; 
 
 const ResumeSection = () => {
     

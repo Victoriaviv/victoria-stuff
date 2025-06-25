@@ -2,7 +2,7 @@ import React from 'react';
 import data from '../data/personalInfo.json';
 import { FaFacebookF, FaLinkedinIn, FaTwitter } from 'react-icons/fa';
 import '../styles/hero.css';
-import MINE from '../assets/MINE.jpg';
+import profile from '../assets/profile.png';
 
 const iconsMap = {
   facebook: <FaFacebookF />,
@@ -22,7 +22,7 @@ const Hero = () => {
         <h2 className="hero-title">{data.title}</h2>
         <p className="hero-description">{data.description}</p>
         <div className="hero-cta">
-          <a href="#about" className="btn">{data.ctaText}</a>
+          <a href="#ResumeSection" className="btn">{data.ctaText}</a>
           <div className="social-icons">
             {data.socials.map((item, index) => (
               <a href={item.link} key={index}>
@@ -35,7 +35,7 @@ const Hero = () => {
 
       <div className="hero-right">
         <div className="image-container">
-          <img src={MINE} alt="profile" className="profile-img" />
+          <img src={profile} alt="profile" className="profile-img" />
        
         </div>
       </div>

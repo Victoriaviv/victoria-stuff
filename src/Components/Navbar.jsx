@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import navData from "../data/navigation.json";
 import "../styles/Navbar.css";
-import { FiMenu, FiX } from "react-icons/fi"; // from react-icons
+import { FiMenu, FiX } from "react-icons/fi"; 
 
 const Navbar = () => {
   const [active, setActive] = useState("#Hero");
