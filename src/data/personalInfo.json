@@ -3,9 +3,8 @@
   "name": "Victoria",
   "surname": "DUFATANYE",
   "title": "Web Developer",
-  "description": "I’m a passionate developer who transforms ideas into interactive experiences, blending logic with creativity to deliver digital solutions that matter.",
+  "description": "Aspiring Full-Stack Developer with hands-on experience from the TakeHerTech program at kLab Rwanda and the AmaliTech Women Coding Bootcamp. I’ve built real-world projects like a blog management system, PSD-to-React portfolio, and an event platform with authentication and file uploads. I’m passionate about turning ideas into functional, user-friendly apps using JavaScript, HTML, CSS, React, Node.js, and TypeScript. Quick to learn, eager to grow, and ready to thrive in dynamic dev teams.",
   "ctaText": "More About Me",
-
   "socials": [
     { "icon": "facebook", "link": "https://web.facebook.com/dufatanye.victoria" },
     { "icon": "linkedin", "link": "https://www.linkedin.com/in/dufatanye-victoria-5a7842336/" },
